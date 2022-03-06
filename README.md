@@ -1,1 +1,1 @@
-# Blockchain
+This repo is created for genetral informations and updates on Blockchain Technology. 
