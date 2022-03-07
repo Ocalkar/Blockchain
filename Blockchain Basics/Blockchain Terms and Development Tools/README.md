@@ -156,7 +156,9 @@ Test blockchain is an environment where you can deploy and test your smart contr
 **Truffle**
 
 **Truffle** is a test framework that help to move, compile and deploy smart contract code to your test blockchain.
-PS C:\Users\start> npm install truffle -g
+PS  download older version of node than 12 (ie 11.50) 
+PS  npm install truffle -g
+PS Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 
 **Visual Studio Code**
 
