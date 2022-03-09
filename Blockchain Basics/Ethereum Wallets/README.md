@@ -28,4 +28,10 @@ Guarda is a cold web wallet that supports multiple cryptocurrencies.
 
 Exodus is a desktop wallet that supports multiple cryptocurrencies.
 
+Jaxx, Coinomi, Bread(BRD) are popular mobile cold wallets.
+
 **Hardware and Paper Wallets**
+
+Ledger Nano, Trezor and Keep key are popular hardware wallets.
+
+ETHAddress and MyEtherWallet are popular paper wallets.
